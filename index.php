@@ -55,6 +55,10 @@
           <label for="barva2">Barva QR sekundární:</label>
           <input type="text" class="form-control" id="barva2" name="barva2" value="#000000">
         </div>
+        <div class="text-center w-100"><span>Při zadání dvou odlišných barev dojde ke gradiendu barev z primární do sekundární</span></div>
+        <br>
+        <hr>
+        <br>
       </div>
       <div class="form-row">
         <div class="form-group col-md-6">
@@ -65,6 +69,10 @@
           <label for="barva4">Barva pozadí sekundární:</label>
           <input type="text" class="form-control" id="barva4" name="barva4" value="#ffffff">
         </div>
+        <div class="text-center w-100"><span>Při zadání dvou odlišných barev dojde ke gradiendu barev z primární do sekundární</span></div>
+        <br>
+        <hr>
+        <br>
       </div>
       <button type="submit" class="btn btn-primary">Vygenerovat QR</button>
     </form>
