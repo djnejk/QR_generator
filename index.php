@@ -20,7 +20,7 @@
         <label for="odkaz">Odkaz:</label>
         <select class="form-control" id="odkaz" name="odkaz">
           <option value="https://qr.runfp.cz/plakat">https://qr.runfp.cz/plakat (Použití na plakát)</option>
-          <option value="https://qr.runfp.cz/plakat-misto">https://qr.runfp.cz/plakat-misto (Použití na plakát na místě události)</option>
+          <option value="https://qr.runfp.cz/plakat-misto">https://qr.runfp.cz/plakat-misto (Použití na plakát na místě události - různé informační tabule atd.)</option>
           <option value="https://qr.runfp.cz/fb">https://qr.runfp.cz/fb (Použití na Facebook)</option>
           <option value="https://qr.runfp.cz/ig">https://qr.runfp.cz/ig (Použití na Instagram)</option>
           <option value="custom">Jiný odkaz</option>
